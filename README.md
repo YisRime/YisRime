@@ -1,4 +1,12 @@
 <p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/YisRime"><img src="https://img.shields.io/badge/GitHub-YisRime-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-苡淞-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://wakatime.com/@YisRime"><img src="https://wakatime.com/badge/user/94695dee-757a-4517-8b47-b329fe05002a.svg" alt="Wakatime" title="Wakatime" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/YisRime"><img src="https://komarev.com/ghpvc/?username=YisRime&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+<p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5%ef%bc%81" alt="Hello World" title="Hello World"/>
 </p>
@@ -16,12 +24,4 @@
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=YisRime&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
-<p align="center">
-    <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/YisRime"><img src="https://img.shields.io/badge/GitHub-YisRime-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-苡淞-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@YisRime"><img src="https://wakatime.com/badge/user/94695dee-757a-4517-8b47-b329fe05002a.svg" alt="Wakatime" title="Wakatime" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/YisRime"><img src="https://komarev.com/ghpvc/?username=YisRime&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
