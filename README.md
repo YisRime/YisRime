@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/badges/shields -->
-    <a href="https://blog.yisrime.link/"><img src="https://img.shields.io/badge/Blog-雪淞亭-blue?logo=blog" alt="Blog" title="Blog" /></a>
+    <a href="https://blog.yisrime.link/"><img src="https://img.shields.io/badge/Blog-雪淞亭-blue?logo=blogger" alt="Blog" title="Blog" /></a>
     <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/Bilibili-苡淞-blue?logo=bilibili" alt="Bilibili" title="Bilibili" /></a>
     <a href="https://github.com/YisRime"><img src="https://img.shields.io/badge/GitHub-YisRime-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://wakatime.com/@YisRime"><img src="https://wakatime.com/badge/user/94695dee-757a-4517-8b47-b329fe05002a.svg" alt="Wakatime" title="Wakatime" /></a>
