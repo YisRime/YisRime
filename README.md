@@ -28,8 +28,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/Platane/snk -->
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
-    </picture>
+    <img width="800" src="https://raw.githubusercontent.com/YisRime/YisRime/output/github-contribution-grid-snake.svg" alt="Snake" title="Snake" />
 </p>
