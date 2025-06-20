@@ -26,3 +26,10 @@
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=YisRime&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
+<p align="center">
+    <!-- https://github.com/Platane/snk -->
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+    </picture>
+</p>
